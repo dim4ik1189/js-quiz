@@ -1,10 +1,12 @@
 import React from 'react';
 import { Card, CardBody, CardText, CardTitle } from "reactstrap";
+import PropTypes from 'prop-types';
+import '../../styles/App.scss'
 
-const IntroCard = ({ cardBg, cardTitle, children }) => (
-    <Card body width="70%" style={cardBg}>
+const IntroCard = ({children}) => (
+    <Card body className="intro-card">
         <CardBody>
-            <CardTitle style={cardTitle}>
+            <CardTitle className="font-weight-bold">
                 <span>Язык JavaScript</span>
             </CardTitle>
             <CardText>
@@ -16,5 +18,9 @@ const IntroCard = ({ cardBg, cardTitle, children }) => (
         }
     </Card>
 );
+
+IntroCard.propTypes = {
+    children: PropTypes.node.isRequired
+};
 
 export default IntroCard;

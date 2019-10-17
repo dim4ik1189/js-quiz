@@ -1,0 +1,15 @@
+
+$card-color: #f7f6ea;
+$red: #FF0000;
+
+.intro-card {
+  background: $card-color;
+  span {
+    color: $red;
+  }
+}
+
+.start-quiz {
+  align-self: flex-end;
+  margin-top: -3rem;
+}

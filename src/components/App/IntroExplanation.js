@@ -1,8 +1,8 @@
 import React from 'react';
 
 const IntroExplanation = () => (
-    <div style={{marginTop: "3rem"}}>
-        <h5 style={{fontWeight: "bold"}}>Пояснения:</h5>
+    <div className="mt-5">
+        <h5 className="font-weight-bold">Пояснения:</h5>
         <ul>
             <li>Тесты предполагают современные браузеры.</li>
             <li>Все настройки браузера – по умолчанию.</li>

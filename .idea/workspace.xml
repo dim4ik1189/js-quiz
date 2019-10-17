@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9622e06-f736-4aab-91cd-0cf5ade76beb" name="Default Changelist" comment="" />
+    <list default="true" id="a9622e06-f736-4aab-91cd-0cf5ade76beb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.core.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/browser/bluebird.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/debuggability.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/release/debuggability.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/js/release/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/js/release/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bluebird/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bluebird/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/dist/bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser/dist/bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/dist/bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser/dist/bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RequestShortener.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack/lib/RequestShortener.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack/lib/Stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yallist/iterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/iterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yallist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yallist/yallist.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/yallist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/IntroCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/IntroCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/IntroExplanation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/IntroExplanation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quiz/ProgressNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quiz/ProgressNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quiz/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/QuizContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Router/QuizContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Router/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Router/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TestResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TestResult.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/questions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/questions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,34 +52,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Quiz/Quiz.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="73" column="28" lean-forward="true" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Router/Router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/TestResult.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="145">
+              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -50,43 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/QuizContext.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data/questions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="960">
+              <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -104,6 +85,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>webpack-dev-server</find>
+      <find>style</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/index.html" />
@@ -120,28 +101,33 @@
         <option value="$PROJECT_DIR$/src/components/IntroCard.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/data/Questions.js" />
-        <option value="$PROJECT_DIR$/src/components/App/IntroExplanation.js" />
         <option value="$PROJECT_DIR$/src/components/QuizQuestionCard.js" />
         <option value="$PROJECT_DIR$/src/components/ProgressNumbers.js" />
         <option value="$PROJECT_DIR$/src/components/Quiz.js" />
-        <option value="$PROJECT_DIR$/src/components/App/IntroCard.js" />
         <option value="$PROJECT_DIR$/src/components/Router.js" />
-        <option value="$PROJECT_DIR$/src/components/App/App.js" />
-        <option value="$PROJECT_DIR$/src/data/questions.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/QuizContext.js" />
-        <option value="$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js" />
         <option value="$PROJECT_DIR$/src/components/Router/Router.js" />
-        <option value="$PROJECT_DIR$/src/components/TestResult.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/components/App/IntroExplanation.js" />
+        <option value="$PROJECT_DIR$/src/styles/App.scss" />
+        <option value="$PROJECT_DIR$/src/components/App/IntroCard.js" />
+        <option value="$PROJECT_DIR$/src/components/Quiz/ProgressNumbers.js" />
         <option value="$PROJECT_DIR$/src/components/Quiz/Quiz.js" />
+        <option value="$PROJECT_DIR$/src/styles/Quiz.scss" />
+        <option value="$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js" />
+        <option value="$PROJECT_DIR$/src/styles/TestResult.scss" />
+        <option value="$PROJECT_DIR$/src/data/questions.js" />
+        <option value="$PROJECT_DIR$/src/components/TestResult.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1975" />
-    <option name="y" value="24" />
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
     <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,13 +159,6 @@
               <item name="trickyJS-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trickyJS-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trickyJS-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Quiz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -194,21 +174,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="trickyJS-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trickyJS-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../store-managing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-boilerplate" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -244,12 +230,13 @@
       <workItem from="1570690589475" duration="7753000" />
       <workItem from="1570779663104" duration="10448000" />
       <workItem from="1571123608116" duration="19923000" />
-      <workItem from="1571209660196" duration="5719000" />
+      <workItem from="1571209660196" duration="11973000" />
+      <workItem from="1571296926557" duration="12714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76835000" />
+    <option name="totallyTimeSpent" value="95803000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,13 +248,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1984" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.139738" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.16812228" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.33019853" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.49007314" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -287,24 +274,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -322,6 +295,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/IntroExplanation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -329,96 +346,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Quiz/ProgressNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/IntroCard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="408">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Quiz/ProgressNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="600">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/QuizContext.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Router/QuizContext.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TestResult.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/questions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Router/Router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="432">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/Quiz.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Quiz/Quiz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="73" column="28" lean-forward="true" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        <state relative-caret-position="384">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="65" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Quiz/QuizQuestionCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/TestResult.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/questions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TestResult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

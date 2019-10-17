@@ -3,10 +3,9 @@ import { Container, Button} from "reactstrap";
 import PropTypes from 'prop-types';
 import ProgressNumbers from './ProgressNumbers';
 import QuizQuestionCard from './QuizQuestionCard';
+import '../../styles/Quiz.scss';
 
 const Quiz = ({ questionsContext: { questions } }) => {
-    console.log('this.context', questions);
-    const [ questionsArray ] = useState(questions);
     let [ questionId, setQuestionId ] = useState(0);
     const [ answers, setAnswers ] = useState([]);
     let [ flag, setFlag ] = useState(true);
@@ -15,7 +14,7 @@ const Quiz = ({ questionsContext: { questions } }) => {
         setFlag(false);
         const { type, value } = event.target;
 
-        let exists = answers.some(a => a.questionId === questionsArray[questionId].id);
+        let exists = answers.some(a => a.questionId === questions[questionId].id);
 
         if(exists) {
             let responseCopy = answers.slice();
@@ -39,7 +38,7 @@ const Quiz = ({ questionsContext: { questions } }) => {
             setAnswers([
                 ...answers,
                 {
-                    questionId: questionsArray[questionId].id,
+                    questionId: questions[questionId].id,
                     valueArray: [...new Set(value)].sort()
                 }
             ]);
@@ -59,7 +58,7 @@ const Quiz = ({ questionsContext: { questions } }) => {
         setFlag(true);
     };
 
-    const button = questionId < questionsArray.length - 1 ? (
+    const button = questionId < questions.length - 1 ? (
         <Button
             color="success"
             onClick={onButtonClick}
@@ -74,16 +73,17 @@ const Quiz = ({ questionsContext: { questions } }) => {
         >Продолжить</Button>
     );
     return (
-        <Container style={{padding: "0 9rem"}}>
-            <div style={{textAlign: "center"}}>
-                <h1 style={{margin: "5rem 0 3rem"}}>Язык JavaScript</h1>
+        <Container className="quiz-container">
+            <div className="text-center">
+                <h1>Язык JavaScript</h1>
                 <ProgressNumbers
                     currentQuestionID={questionId}
+                    questionsLength={questions.length}
                 />
                 <QuizQuestionCard
                     onInputChange={onInputChange}
                     index={questionId}
-                    questions={questionsArray}
+                    questions={questions}
                 />
                 { button }
             </div>

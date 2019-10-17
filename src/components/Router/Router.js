@@ -4,7 +4,7 @@ import App from '../App/App';
 import Quiz from '../Quiz/Quiz';
 import TestResult from '../TestResult';
 import questions from '../../data/questions';
-import { Provider, Consumer } from '../QuizContext';
+import { Provider, Consumer } from './QuizContext';
 
 const Router = () => (
     <Provider value={{questions}}>

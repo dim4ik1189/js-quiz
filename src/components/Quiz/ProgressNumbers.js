@@ -1,43 +1,30 @@
 import React from 'react';
-import questions from '../../data/questions';
+import PropTypes from 'prop-types';
+import '../../styles/Quiz.scss';
 
-const ProgressNumbers = ({ currentQuestionID }) => {
-    const numbers = [...Array(questions.length + 1).keys()].slice(1);
-    const quizTimeline = {
-        fontSize: "12px",
-        color: "#333",
-        width: "20px",
-        height: "20px",
-        listStyleType: "none"
-    };
-    const lineStyle = {
-        display: "flex",
-        justifyContent: "space-evenly",
-        border: "2px solid #eee",
-        borderRadius: "20px",
-        padding: "5px"
-    };
-    const current = {
-        borderRadius: "10px",
-        color: "#fff",
-        background: "#f8ab47"
-    };
+const ProgressNumbers = ({ currentQuestionID, questionsLength }) => {
+    const numbers = [...Array(questionsLength + 1).keys()].slice(1);
     return (
-        <div style={lineStyle}>
+        <div className="timeline mt-4">
             {
                 numbers.map((num, index) => {
                     if (currentQuestionID === index) {
                         return (
-                            <li key={num} style={{...quizTimeline, ...current}}>{num}</li>
+                            <li key={num} className="current">{num}</li>
                         )
                     }
                     return (
-                        <li key={num} style={quizTimeline}>{num}</li>
+                        <li key={num}>{num}</li>
                     )
                 })
             }
         </div>
     )
+};
+
+ProgressNumbers.propTypes = {
+    currentQuestionID: PropTypes.number,
+    questionsLength: PropTypes.number
 };
 
 export default ProgressNumbers;
